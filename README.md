@@ -7,5 +7,6 @@
 1. 2人目の身長をメートル(m)単位で入力します。
 1. 2人目の体重をメートル(m)単位で入力します。
 1. 結果が表示されます。  
+---  
 [**制作過程はこちら**](https://github.com/minowa-s/command-ensyu)  
 *お問合せはこちら s.minowa.sys22@morijyobi.ac.jp*
